@@ -5,3 +5,7 @@ if (areYouReady=== 'yes') {
 } else{
   console.log('it is okay')
 }
+
+
+
+git push origin master
